@@ -257,7 +257,7 @@ transform: scale(1.1);
     margin-top: 30px;
 }
 .contact-left p i{
-    color:oranges;
+    color:orange;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -269,7 +269,7 @@ transform: scale(1.1);
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
-    color:pinke;
+    color:blue;
     display: inline-block;
     transition: transform 0.5s;
 }
@@ -282,7 +282,7 @@ transform: scale(1.1);
     background: gold;
 }
 .contact-right form{
-    width: 100%;
+    width: 10%;
 }
 form input, form textarea{
     width: 100%;
@@ -305,7 +305,7 @@ form .btn2{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    color:red;
+    color:blue;
     font-weight: 300;
     margin-top: 20px;
     border-radius: 15px;
