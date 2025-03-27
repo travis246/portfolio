@@ -9,7 +9,7 @@ html{
 }
 body{
     background: #080808;
-    color: #fff;
+    color: red;
 
 }
 h1 span{
@@ -166,7 +166,7 @@ margin: 10px 0;
     display: inline-block ;
 }
 .services-list div:hover{
-    background: #ae00ff;
+    background: yellow;
     transform:translateY(-10px) ;
 }
 #portfolio{
@@ -257,7 +257,7 @@ transform: scale(1.1);
     margin-top: 30px;
 }
 .contact-left p i{
-    color: rgb(255, 115, 0);
+    color:oranges;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -269,7 +269,7 @@ transform: scale(1.1);
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
-    color: rgb(15, 12, 212);
+    color:pinke;
     display: inline-block;
     transition: transform 0.5s;
 }
@@ -291,7 +291,7 @@ form input, form textarea{
     background: #262626;
     padding: 15px;
     margin: 15px 0;
-    color: #fff;
+    color: brown;
     font-size: 18px;
     border-radius: 6px;
 }
@@ -305,13 +305,13 @@ form .btn2{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    background: #262626;
+    color:red;
     font-weight: 300;
     margin-top: 20px;
     border-radius: 15px;
 }
 .copyright span{
-    color: #ff004f;
+    color: golden;
 }
 /*------------------css for small screens-------------------*/
 nav .fas{
@@ -374,13 +374,13 @@ nav ul .fas{
     flex-basis: 100%;
 }
 .copyright{
-    color: #09ff00;
+    color: blue;
     font-size: 14px;
     padding: 10px;
 }
 }
 #msg{
-   color: #3f0018; 
+   color: darkgreen; 
    margin-top: -40px;
    display: block;
 }
