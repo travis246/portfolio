@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>js</title>
+</head>
+<body>
+    <h1 id="one">click this button to change backgroundColor</h1>
+    <button onclick="background()">click me</button>
+    <script>
+        function background(){
+            document.body.style.backgroundColor="red"
+            document.getElementById("one").innerHTML=("the color changed to red");
+        }
+    
+    </script>
+</body>
+</html>
