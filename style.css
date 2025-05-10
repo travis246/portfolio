@@ -374,13 +374,13 @@ nav ul .fas{
     flex-basis: 100%;
 }
 .copyright{
-    color: blue;
+    color: white;
     font-size: 14px;
     padding: 10px;
 }
 }
 #msg{
-   color: darkgreen; 
+   color: white; 
    margin-top: -40px;
    display: block;
 }
